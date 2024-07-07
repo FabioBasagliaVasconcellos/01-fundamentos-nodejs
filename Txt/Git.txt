@@ -1,0 +1,8 @@
+git pull (Ele faz com que você baixe um repositório em sua máquina local. Traz todo o código de outra máquina para minha.)
+git push (Ao contrário do pull, com o git push, você sobe seus códigos na plataforma, para que outros possam puxar o código.)
+git add (Selecionar os arquivos para enviar ao GitHub. Exemplo: git add fundamentais.js ou git add . caso queira fazer o upload de todos os arquivos.)
+git comment -m + add comentário (Comentários para fazer o upload do arquivo, para saber quais foram as alterações feitas.)
+
+Sequencia » Git Add, Git Comment, Git Push.
+
+Amain = O código em produção direto da web, mas não pode ser alterado, ao invés disso, criar um Branch para poder fazer alterações e modificações no projeto, separadamento do Amain, e depois realizar o upload do seu Branch dentro do Amain.
